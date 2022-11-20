@@ -49,7 +49,9 @@ int main() {
 	clock_t start, end;
 	CreatArray();
 	pthread_t th[NUM_THREADS];
-    for (int k = 0; k < 100; k++) {
+
+
+    //for (int k = 0; k < 100; k++) {
 	start = clock();
 	for (int i = 0; i < NUM_THREADS; i++) {
 		int* a = (int*)malloc(sizeof(int)); 
@@ -82,7 +84,7 @@ int main() {
     printf("\nThread's One count: %25d", sum);
     printf("\nTotal Threads Time Elapsed(seconds): %f", time_In_Seconds);
     printf("\nIs threads Result true: %18s", (Actual_Number_of_Ones == sum)? "Yes": "No");
-    }
+    //}
 
 	return 0; 
 }
