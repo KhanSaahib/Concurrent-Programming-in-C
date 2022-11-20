@@ -3,10 +3,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <pthread.h>
-#define NUM_THREADS     64
+#define NUM_THREADS     64// Number of threads
 int size = 10000000;
 int array[10000000];
-long i;
+int L1 = 255996; // size of L1 chache - 4 bytes. 
 
 /*
 *This function initializes an array of predifiened size.
@@ -31,7 +31,9 @@ void* countOnes(int* index) {
 	long long myFirstI = dx*sect;
 	long long myLastI = myFirstI + sect;
     int* mycount = (int *) malloc(sizeof(int)); 
-    *mycount = 0; 
+    *mycount = 0;
+    char arr [255996];
+
 	for (int i = myFirstI; i < myLastI; i++) {
 		if (array[i] == 1) {
 			*mycount = *mycount + 1; 
