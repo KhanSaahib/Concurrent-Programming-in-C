@@ -1,0 +1,901 @@
+
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.036000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.041000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.058000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.016000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.028000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.046000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.026000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.056000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.023000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.033000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.031000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.024000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.023000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.025000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.041000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.027000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.023000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.024000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.040000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.024000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.040000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.067000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.018000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.018000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.026000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.041000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.019000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.017000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.040000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.013000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.017000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.041000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.041000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.019000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.062000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.078000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.041000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.027000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.023000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.041000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.018000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.019000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.019000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.031000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.018000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.051000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.049000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.024000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.023000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.024000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.050000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.024000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.024000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.080000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.022000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.076000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.018000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.026000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.056000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.018000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.045000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.017000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.041000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.024000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.083000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.019000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.071000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.019000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.018000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.077000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.038000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.048000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.017000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.046000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.028000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.055000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.022000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.045000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.022000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.073000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.045000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.040000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.024000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.077000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.046000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.034000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.060000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.046000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.027000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.082000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.023000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.045000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.079000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.023000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.026000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.040000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.019000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.023000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.062000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.045000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.025000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.062000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.017000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.046000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.023000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.042000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.017000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.044000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.018000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.074000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.037000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.020000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.046000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.019000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.026000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.061000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.021000
+Is threads Result true:                Yes
+
+
+Size:                                 10000000
+Actual Frequency of Ones:              1667287
+Sequential time Elapsed:             0.043000
+Number of Threads:                      16
+Thread's One count:                   1667287
+Total Threads Time Elapsed(seconds): 0.023000
+Is threads Result true:                Yes
